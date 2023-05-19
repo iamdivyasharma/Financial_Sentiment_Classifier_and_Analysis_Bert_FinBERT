@@ -64,7 +64,7 @@ Preprocessing Steps : Cleaning, removing stopwords, lemmatization
 >
 >
 >
-> **BERT - FREEZED 6 layers and then FINE TUNED**
+># **BERT - FREEZED 6 layers and then FINE TUNED**
 > 
 >Classification Report 
 >
