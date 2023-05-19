@@ -13,7 +13,7 @@ NOTE :>
 >**If you want to fine tune the model , simply do not freeze the layers and train the model ,remove the code that freezes the layers. By default, all the layers of the model will be trainable.**
 
 >
-3) Comparision and conclusion 
+
 >
 ># PREPROCESSING
 >
