@@ -1,6 +1,5 @@
-# Financial Sentimental Analysis. Comparative Analysis of finetuned BERT vs finetuned FINBERT vs Traditional Algorithms (TF-IDF, SVM, Logistic Regression)
-Financial Sentimental Analysis. Comparative Analysis of finetuned BERT vs finetuned FINBERT vs Traditional Algorithms (TF-IDF, SVM, Logistic Regression)
-In this note book you will find EDA of  Financial Sentimental data fro kaggle 
+## Financial Sentimental Analysis and Build Financial Sentimental Classifier using BERT finetuning , FinBERT finetuning , BERT transfer learning , FinBERT transfer learning and Traditional ALogrithms (TF-IDF, SVM, Logistic Regression ) 
+# In this note book you will find EDA of  Financial Sentimental data fro kaggle 
 
 ABOUT THE DATASET 
 The following data is intended for advancing financial sentiment analysis research. It's two datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides financial sentences with sentiment labels.
