@@ -5,7 +5,7 @@ ABOUT THE DATASET :
 The following data is intended for advancing financial sentiment analysis research. It's two datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides financial sentences with sentiment labels.
 
 >
-1) Preprcoessing the data and Exploratory data Analysis. 
+1) Preprcoessing the data and Exploratory data Analysis. (Preprocessing_and_EDA.ipynb)
 >
 2) Building Financial Sentimental classifier using  FinBERT , BERT model by transfer learning the model and using traditional models(TFIDF , SVM, LOGISTIC REGRESSION) for Financial Sentimental classification
 >
