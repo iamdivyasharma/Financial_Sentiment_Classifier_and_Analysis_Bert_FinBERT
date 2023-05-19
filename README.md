@@ -13,7 +13,7 @@ WHAT WE ARE DOING:
 >
 NOTE : TRANSFER LEARNING : we are freezing 10 layers and training rest of the layers then evaluating our model performance in terms of F1, recall, accuracy and confusion matrix.
 >
-3) Comparision and conclusion
+3) Comparision and conclusion >
 -___________________# PREPROCESSING__________________________________________________
 Preprocessing: Cleaning, removing stopwords, lemmatization
 >
