@@ -16,6 +16,7 @@ NOTE : TRANSFER LEARNING : we are freezing 10 layers and training rest of the la
 3) Comparision and conclusion 
 >
 -___________________# PREPROCESSING__________________________________________________
+>
 Preprocessing: Cleaning, removing stopwords, lemmatization
 >
 Next step is cleaning the data to make it suitable to load it in our models. This is an essential step as feeding raw data will not give us good results.
