@@ -63,9 +63,11 @@ Preprocessing Steps : Cleaning, removing stopwords, lemmatization
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/abbc0114-31d9-40a0-bdec-038e0b1a2f6d)
 
 
-># **BERT - FREEZED 6 layers and then FINE TUNED**
+> **BERT - FREEZED 6 layers and then FINE TUNED**
+> 
 >Classification Report 
 ![bert_freezed_report](https://github.com/iamdivyasharma/Leveraging_BERT_FinBERT_Building-Robust-Sentiment-Classifier-and-comparing-with-Traditional-Algos/assets/66716367/0dc8b1e6-0cf1-4887-bd77-f8a3f0cfbc99)
+>
 > Confusion Matrix
 ![bert_freezed_matirx](https://github.com/iamdivyasharma/Leveraging_BERT_FinBERT_Building-Robust-Sentiment-Classifier-and-comparing-with-Traditional-Algos/assets/66716367/92a6f8d9-9e8f-40c3-a62a-ac2e553ecd0f)
 
@@ -73,7 +75,7 @@ Preprocessing Steps : Cleaning, removing stopwords, lemmatization
 
 
 
-># **BERT - FINE TUNED**
+> **BERT - FINE TUNED**
 >BERT Fine-tuned Classification Report 
 
 ![report_bert](https://github.com/iamdivyasharma/Leveraging_BERT_FinBERT_Building-Robust-Sentiment-Classifier-and-comparing-with-Traditional-Algos/assets/66716367/928668b8-ccd1-4318-b498-efb409ec89e0)
