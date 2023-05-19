@@ -68,12 +68,12 @@ Preprocessing Steps : Cleaning, removing stopwords, lemmatization
 ># **BERT - FINE TUNED**
 >BERT Fine-tuned Classification Report 
 
-
 ![report_bert](https://github.com/iamdivyasharma/Leveraging_BERT_FinBERT_Building-Robust-Sentiment-Classifier-and-comparing-with-Traditional-Algos/assets/66716367/928668b8-ccd1-4318-b498-efb409ec89e0)
 > BERT Fine-tuned Confusion Matrix
 
 ![matrix_bert](https://github.com/iamdivyasharma/Leveraging_BERT_FinBERT_Building-Robust-Sentiment-Classifier-and-comparing-with-Traditional-Algos/assets/66716367/ad620a04-03d1-4ecd-8405-c1a8bda6c192)
 
+>**F1 Score: 0.7392649042485108**
 
 
 
