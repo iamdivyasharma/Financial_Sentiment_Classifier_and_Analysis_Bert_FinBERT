@@ -33,22 +33,29 @@ Next step is cleaning the data to make it suitable to load it in our models. Thi
 > 
 ># Exploratory Data Analysis
 
->Sentimental Distribution category wise >
+> Sentimental Distribution category wise 
+> 
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/50f497a7-927e-45bb-b6cb-0730b6224309)
->Pie chart for  percentage distribution of each category >
+>Pie chart for  percentage distribution of each category 
+>
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/880d17df-79fe-407e-bb33-7cc473e010ab)
-Length of Financial phrases >
+>Length of Financial phrases
+>
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/a92a387a-a52d-4dee-b056-d84c3234fb61)
-Word COunts in Financial phrases >
+>Word COunts in Financial phrases 
+>
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/77929d9e-504c-425e-b33f-4012b292a7cc)
-Box Plot of WOrd Count and Length >
+>Box Plot of WOrd Count and Length 
+>
  ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/4b18b4ce-f3d4-43ee-be40-d04706f79dbb)
-Word Cloud : more frequently a word appears in the text, the larger and more prominent it appears in the word cloud >
+>Word Cloud : more frequently a word appears in the text, the larger and more prominent it appears in the word cloud 
+>
  ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/42ac221b-3c46-4144-89d8-32d9536620aa)
- Shows  top 10 words and their counts >
-
+>Shows  top 10 words and their counts 
+>
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/41a0809d-fb26-4bf6-920a-c7579d8b7abd)
-bar chart of the top 10 bigrams and their counts >
+> bar chart of the top 10 bigrams and their counts 
+> 
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/03108924-6283-4b86-bc79-53e4fa661e60)
 
 
