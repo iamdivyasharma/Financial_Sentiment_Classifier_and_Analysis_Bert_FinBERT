@@ -33,9 +33,9 @@ Next step is cleaning the data to make it suitable to load it in our models. Thi
 > 
 ># Exploratory Data Analysis
 
-Sentimental Distribution category wise >
+>Sentimental Distribution category wise 
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/50f497a7-927e-45bb-b6cb-0730b6224309)
-Pie chart for  percentage distribution of each category >
+>Pie chart for  percentage distribution of each category >
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/880d17df-79fe-407e-bb33-7cc473e010ab)
 Length of Financial phrases >
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/a92a387a-a52d-4dee-b056-d84c3234fb61)
