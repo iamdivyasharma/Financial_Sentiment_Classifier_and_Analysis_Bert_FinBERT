@@ -1,9 +1,6 @@
 # **Financial Sentimental Analysis. Build Financial Sentimental Classifier using BERT and FinBERT by transfer learning and Traditional Alogrithms (TF-IDF, SVM, Logistic Regression )**
 
-ABOUT THE DATASET : 
->
-The following data is intended for advancing financial sentiment analysis research. It's two datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides financial sentences with sentiment labels.
-
+ABOUT THE DATASET : Download the dataset usng cmd :  kaggle datasets download -d sbhatti/financial-sentiment-analysis
 >
 1) Preprcoessing the data and Exploratory data Analysis. (Preprocessing_and_EDA.ipynb)
 >
