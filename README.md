@@ -75,7 +75,7 @@ Preprocessing Steps : Cleaning, removing stopwords, lemmatization
 ![bert_freezed_matirx](https://github.com/iamdivyasharma/Leveraging_BERT_FinBERT_Building-Robust-Sentiment-Classifier-and-comparing-with-Traditional-Algos/assets/66716367/92a6f8d9-9e8f-40c3-a62a-ac2e553ecd0f)
 >
 
->#**F1 Score:0.6605896975027725**
+># **F1 Score:0.6605896975027725**
 
 
 
@@ -90,7 +90,7 @@ Preprocessing Steps : Cleaning, removing stopwords, lemmatization
 
 ![matrix_bert](https://github.com/iamdivyasharma/Leveraging_BERT_FinBERT_Building-Robust-Sentiment-Classifier-and-comparing-with-Traditional-Algos/assets/66716367/ad620a04-03d1-4ecd-8405-c1a8bda6c192)
 
->#**F1 Score: 0.7392649042485108**
+># **F1 Score: 0.7392649042485108**
 
 
 
