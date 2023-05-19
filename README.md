@@ -1,4 +1,4 @@
-# **Financial Sentimental Analysis and Build Financial Sentimental Classifier using BERT and FinBERT by transfer learning and Traditional Alogrithms (TF-IDF, SVM, Logistic Regression )**
+
 # **Enhancing Financial Sentiment Analysis: Leveraging BERT, FinBERT, and Traditional Algorithms (TF-IDF, SVM, Logistic Regression) for Building a Powerful Sentiment Classifier**
 
 ABOUT THE DATASET : Download the dataset using cmd :  kaggle datasets download -d sbhatti/financial-sentiment-analysis
