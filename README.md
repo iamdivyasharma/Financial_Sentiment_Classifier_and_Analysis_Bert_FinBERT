@@ -20,7 +20,8 @@ NOTE : TRANSFER LEARNING : we are freezing 10 layers and training rest of the la
 Preprocessing: Cleaning, removing stopwords, lemmatization
 >
 Next step is cleaning the data to make it suitable to load it in our models. This is an essential step as feeding raw data will not give us good results.
-
+> cleaning steps
+> 
 1) All the '%' symbols are converted into text 'percent' using str.replace() function.>
 2)  '$' represents currency US dollars we can convert it to 'usd' which is widely used. A function 'convert_usd' is defined to identify pattern using regular expression r'$' and converted to 'usd' using 'apply()' function >
 3)  Any html tags <> in the dataset are identified by defining has_html_tags function. re.search() function will search for pattern * r"<[^>]+>" * and then return True is pattern is identified else False. apply() function is used to check in 'sentence' column in dataset 'df' and these values are stored in rows_with_html_tags variable. >
