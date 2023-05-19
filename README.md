@@ -32,7 +32,7 @@ Next step is cleaning the data to make it suitable to load it in our models. Thi
 > After cleaning data , we removed stop words
 > Then first tokenizing the sentence using the 'nltk.word_tokenize()' function and then applying lemmatization on each token using the lemmatize function from the 'WordNetLemmatizer'
 > 
-#**Exploratory Data Analysis**
+>**Exploratory Data Analysis**
 
 
 ![image](https://github.com/iamdivyasharma/Financial_Sentiment_Classifier_and_Analysis_Bert_FinBERT/assets/66716367/50f497a7-927e-45bb-b6cb-0730b6224309)
