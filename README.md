@@ -1,5 +1,5 @@
 
-# **Enhancing Financial Sentiment Analysis: Leveraging BERT, FinBERT, and Traditional Algorithms (TF-IDF, SVM, Logistic Regression) for Building a Powerful Sentiment Classifier**
+# **Advancing Financial Sentiment Analysis: Exploiting the Power of BERT and FinBERT for Constructing a Robust Sentiment Classifier, and Comparative Analysis with Traditional Algorithms (TF-IDF, SVM, Logistic Regression)**
 
 ABOUT THE DATASET : Download the dataset using cmd :  kaggle datasets download -d sbhatti/financial-sentiment-analysis
 >
