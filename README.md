@@ -6,7 +6,12 @@ ABOUT THE DATASET : Download the dataset usng cmd :  kaggle datasets download -d
 >
 2) Building Financial Sentimental classifier using  FinBERT , BERT model by transfer learning the model and using traditional models(TFIDF , SVM, LOGISTIC REGRESSION) for Financial Sentimental classification
 >
-NOTE : TRANSFER LEARNING : we are freezing 10 layers and training rest of the layers then evaluating our model performance in terms of F1, recall, accuracy and confusion matrix.
+NOTE :>
+>TRANSFER LEARNING : we are freezing 12 layers and training rest of the layers then evaluating our model performance in terms of F1, recall, accuracy and confusion matrix.
+>By freezing the BERT layers, you essentially keep the pre-trained BERT weights fixed and prevent them from being updated during the training process. This can be useful when you have limited training data or when you want to leverage the pre-trained representations of BERT for your specific task without modifying them.
+>During training, only the weights of the classification layer will be updated, allowing the model to learn task-specific patterns and make predictions based on the fixed BERT representations. The frozen BERT layers act as a feature extractor, providing contextualized word representations to the trainable classification layer.
+>**If you want to fine tune the model , simply do not freeze the layers and train the model ,remove the code that freezes the layers. By default, all the layers of the model will be trainable.**
+
 >
 3) Comparision and conclusion 
 >
